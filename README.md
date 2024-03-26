@@ -1,6 +1,7 @@
 # Ice-Breaker-LLM
 
 **IceBreaker** 🕵️
+
 IceBreaker is a tool designed to gather insightful information and conversation starters about individuals using their name. It leverages various APIs, web scraping techniques, and LangChain for natural language processing to extract information from online profiles such as LinkedIn. The tool then presents a summary of the person along with interesting facts, topics of interest, and ice breakers to initiate conversations.
 
 _Key Features:_

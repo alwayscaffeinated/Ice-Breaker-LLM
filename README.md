@@ -17,7 +17,7 @@ Customizable Output: IceBreaker provides a formatted output with sections for su
 
 _Technologies Used:_
 
-Python: IceBreaker is developed primarily in Python, leveraging popular libraries such as Gradio for the user interface, requests for web scraping, and LangChain for natural language processing tasks.
+Python: IceBreaker is developed primarily in Python, leveraging popular libraries such as Gradio for the user interface, and LangChain for natural language processing tasks.
 
 SerpAPI: SerpAPI is used for search engine result scraping, enabling the tool to find relevant online profiles.
 
